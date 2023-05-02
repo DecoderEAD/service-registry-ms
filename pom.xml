@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.ead.serviceregistryms</groupId>
     <artifactId>service-registry-ms</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>service-registry-ms</name>
     <description>service-registry-ms</description>
     <properties>
